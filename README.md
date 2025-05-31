@@ -35,7 +35,7 @@ You can use this application directly in your browser without any installation. 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/CASIOmax/Keyboard-Tester.git
+   git clone https://github.com/Umar-dev-01/Keyboard-tester.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
